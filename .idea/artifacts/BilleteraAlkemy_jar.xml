@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BilleteraAlkemy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BilleteraAlkemy_jar</output-path>
+    <root id="archive" name="BilleteraAlkemy.jar">
+      <element id="module-output" name="BilleteraAlkemy" />
+    </root>
+  </artifact>
+</component>
